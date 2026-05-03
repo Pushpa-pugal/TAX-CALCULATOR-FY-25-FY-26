@@ -1,0 +1,68 @@
+.basic-form-container {
+  padding: 2rem;
+}
+
+.form-group {
+  margin-bottom: 2rem;
+}
+
+.form-group label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  font-size: 1.05rem;
+}
+
+.form-control {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  font-family: inherit;
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.9);
+  transition: all var(--transition-fast);
+}
+
+.form-control:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px var(--color-primary-light);
+}
+
+.input-with-prefix {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.prefix {
+  position: absolute;
+  left: 1rem;
+  color: var(--color-text-muted);
+  font-weight: 500;
+}
+
+.input-with-prefix .form-control {
+  padding-left: 2rem;
+}
+
+.faq-section {
+  margin-top: 0.75rem;
+  font-size: 0.875rem;
+  background-color: rgba(255,255,255,0.5);
+  border-radius: var(--radius-md);
+  padding: 0.75rem;
+}
+
+.faq-section summary {
+  cursor: pointer;
+  color: var(--color-text-muted);
+  font-weight: 500;
+  outline: none;
+}
+
+.faq-section p {
+  margin-top: 0.5rem;
+  color: var(--color-text-muted);
+}

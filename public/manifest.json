@@ -1,0 +1,17 @@
+{
+  "name": "Indian Tax Calculator FY 2025-26",
+  "short_name": "TaxCalc",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A0F1E",
+  "theme_color": "#0A0F1E",
+  "description": "Calculate your taxes instantly",
+  "icons": [
+    {
+      "src": "/tax-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
