@@ -20,18 +20,6 @@ We’ve got a dark theme (because your eyes shouldn't hurt while your wallet is 
 
 ---
 
-## 📱 How to Install This as an App (The "Instant" Way)
-
-You don't need to be a programmer to put this app on your computer! If you are visiting the live link of this website in your browser, you can install it directly to your desktop:
-
-1. Open the website in **Google Chrome** or **Microsoft Edge**.
-2. Look at the right side of the address bar at the top of your browser.
-3. You will see a small icon that looks like a monitor with a down arrow, or an option that says **"App available. Install"**.
-4. Click it and select **Install**. 
-5. That's it! The app will now have its own icon on your desktop and taskbar. It will open in its own clean window, just like a real software application!
-
----
-
 ## 💻 How to Download and Run the Code (For Beginners)
 
 If you want to download the actual code to see how it works, make changes, or run it offline on your own machine, follow these simple steps. Don't worry if you aren't a tech expert!
